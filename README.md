@@ -5,6 +5,7 @@ my first github repository
  * 김승범, <picxenk@gmail.com>
  * https://metakits.cc
  * 저는 착한 사람입니다.
+ * 오늘일을 내일로 미루지 말아야지.
 
 ## 오늘 할 일
  - [x] github 가입하기
